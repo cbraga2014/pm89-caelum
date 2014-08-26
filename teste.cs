@@ -3,6 +3,7 @@ public static
 public static void Main (string[]args)
 {
 console.writeline("oi");
-consolo.writeline("caelum");
+console.writeline("caelum");
+console.writeline("oi caelum");
 } 
 }
